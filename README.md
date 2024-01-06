@@ -1,1 +1,1 @@
-# encryption
+# basic passwording using case structure
